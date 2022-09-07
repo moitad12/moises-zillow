@@ -1,0 +1,76 @@
+#hero {
+    position: relative;
+    text-align: center;
+  }
+  
+  #hero h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+.img-fluid {
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 15px;
+}
+
+a {
+    font-size: 150%;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border: none;
+    padding: 60px;
+    font-size: 30px;
+    background-color: white;
+}
+
+footer img {
+    width: 100%;
+}
+
+div.text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+div.dummyText1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.dummyText2 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.dummyText3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+ul.badge-img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
